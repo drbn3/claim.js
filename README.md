@@ -1,1 +1,2 @@
 readme.js
+readme.txt
